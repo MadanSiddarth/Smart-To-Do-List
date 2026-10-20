@@ -43,6 +43,10 @@ No additional packages are required.
 - Add dark mode
 - Display task statistics
 
+## Screenshot
+
+![Smart To-Do List Application](screenshots/todo-app.png)
+
 ## Author
 
 **Madan S K**
